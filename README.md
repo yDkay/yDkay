@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/blackhole-header.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/yDkay/yDkay/main/assets/blackhole-header.svg" width="100%" />
 </p>
 
 <h1 align="center">Caio Consoli</h1>
