@@ -14,7 +14,7 @@
 
 ---
 
-I'm a QA Engineer who focuses on building fast, reliable automation across UI and API layers. I work primarily with **Cypress**, **Playwright**, **JavaScript** and **TypeScript**, and I care about writing tests that actually catch real issues — not just pad coverage numbers.
+I'm a QA Engineer who focuses on building ROBUST automation across UI and API layers. I work primarily with **Cypress**, **Playwright**, **JavaScript** and **TypeScript**. Automate EVERYTHING.
 
 ---
 
